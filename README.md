@@ -1,4 +1,4 @@
-# opensim_tenis_model
+# opensim_tennis_model
 
 This repository contains a full-body OpenSim model designed to be suitable for tennis, along with the geometry files. The model combines the scapulothoracic joint of Seth et al. (2016), the upper body of Cazzola et al. (2017) and the lower body of Rajogopal et al. (2016). The inclusion of the scapulothoracic joint allows for realistic shoulder movement, even during tennis serves. Segment mass and inertial properties are based on de Leva (1996). This model has no muscles and is currently only suitable for inverse kinematics analysis.
 
